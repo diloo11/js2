@@ -42,3 +42,8 @@
 4. no, because we can just called the method that we want to call just with write the object first and then dot(.) the name of the method that we want to call
 5. ![alt text](image-2.png)
 
+## Assignment
+Course
+![alt text](image-3.png)
+Lecturer
+![alt text](image-4.png)
